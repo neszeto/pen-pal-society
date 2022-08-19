@@ -1,0 +1,104 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Nora Szeto",
+      "email": "nora@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Carly Doppelheuer",
+      "email": "carly@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Justin Dority",
+      "email": "justin@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Adam Chance",
+      "email": "adam@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Steve Brownlee",
+      "email": "steve@gmail.com"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "Nora Szeto",
+      "email": "nora@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Carly Doppelheuer",
+      "email": "carly@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Justin Dority",
+      "email": "justin@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Adam Chance",
+      "email": "adam@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Steve Brownlee",
+      "email": "steve@gmail.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "topic": "Business"
+    },
+    {
+      "id": 2,
+      "topic": "Friendly"
+    },
+    {
+      "id": 3,
+      "topic": "Family"
+    },
+    {
+      "id": 4,
+      "topic": "Congratulations"
+    },
+    {
+      "id": 5,
+      "topic": "Condolences"
+    }
+  ],
+  "letters": [
+    {
+      "authorId": 1,
+      "recipientId": 2,
+      "topicId": 2,
+      "letterBody": "Hello!",
+      "timeStamp": "7/18/2022",
+      "id": 1
+    },
+    {
+      "authorId": 3,
+      "recipientId": 4,
+      "topicId": 1,
+      "letterBody": "This is a test.",
+      "timeStamp": "7/18/2022",
+      "id": 2
+    },
+    {
+      "authorId": 4,
+      "recipientId": 1,
+      "topicId": 4,
+      "letterBody": "This is a letter to test if my book-6 assessment is working properly. ",
+      "timeStamp": "7/19/2022",
+      "id": 3
+    }
+  ]
+}

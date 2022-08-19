@@ -1,0 +1,45 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Patua One", serif;
+    letter-spacing: 2px;
+  }
+
+
+.label {
+    font-size: 1.5em;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em; 
+}
+
+.input {
+    width: 700px;
+    height: 250px; 
+    padding-top: 0;
+    padding-left: 0;
+    font: serif;
+    font-size: 18px;
+}
+
+.send {
+    margin-top: 2em; 
+}
+
+.letterBody {
+    background-color:  #cceeff; 
+    padding: 1em; 
+}
+
+.chosenTopic {
+    border: black; 
+    box-shadow: 5px 5px 5px #b3b3b3;
+    background-color:blanchedalmond; 
+    border-radius: 25px;
+    width: 5em; 
+    text-align: center;
+    padding-top: 0.02em;
+    padding-bottom: 0.02em;
+    
+}
